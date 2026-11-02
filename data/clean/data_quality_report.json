@@ -1,0 +1,265 @@
+{
+  "read": 221810,
+  "valid": 221588,
+  "rejected": 222,
+  "inserted": 0,
+  "reject_reasons": {
+    "future_date": 74,
+    "non_positive_price": 74,
+    "price_order_violation": 74
+  },
+  "duplicates_skipped": 221588,
+  "coverage_state_year": [
+    {
+      "state": "Assam",
+      "year": 2022,
+      "n": 1244
+    },
+    {
+      "state": "Assam",
+      "year": 2023,
+      "n": 7714
+    },
+    {
+      "state": "Assam",
+      "year": 2024,
+      "n": 7713
+    },
+    {
+      "state": "Assam",
+      "year": 2025,
+      "n": 7751
+    },
+    {
+      "state": "Assam",
+      "year": 2026,
+      "n": 6443
+    },
+    {
+      "state": "Karnataka",
+      "year": 2022,
+      "n": 936
+    },
+    {
+      "state": "Karnataka",
+      "year": 2023,
+      "n": 5805
+    },
+    {
+      "state": "Karnataka",
+      "year": 2024,
+      "n": 5829
+    },
+    {
+      "state": "Karnataka",
+      "year": 2025,
+      "n": 5814
+    },
+    {
+      "state": "Karnataka",
+      "year": 2026,
+      "n": 4843
+    },
+    {
+      "state": "Maharashtra",
+      "year": 2022,
+      "n": 1412
+    },
+    {
+      "state": "Maharashtra",
+      "year": 2023,
+      "n": 8697
+    },
+    {
+      "state": "Maharashtra",
+      "year": 2024,
+      "n": 8738
+    },
+    {
+      "state": "Maharashtra",
+      "year": 2025,
+      "n": 8699
+    },
+    {
+      "state": "Maharashtra",
+      "year": 2026,
+      "n": 7276
+    },
+    {
+      "state": "Manipur",
+      "year": 2022,
+      "n": 839
+    },
+    {
+      "state": "Manipur",
+      "year": 2023,
+      "n": 5118
+    },
+    {
+      "state": "Manipur",
+      "year": 2024,
+      "n": 5155
+    },
+    {
+      "state": "Manipur",
+      "year": 2025,
+      "n": 5117
+    },
+    {
+      "state": "Manipur",
+      "year": 2026,
+      "n": 4262
+    },
+    {
+      "state": "Meghalaya",
+      "year": 2022,
+      "n": 426
+    },
+    {
+      "state": "Meghalaya",
+      "year": 2023,
+      "n": 2586
+    },
+    {
+      "state": "Meghalaya",
+      "year": 2024,
+      "n": 2606
+    },
+    {
+      "state": "Meghalaya",
+      "year": 2025,
+      "n": 2574
+    },
+    {
+      "state": "Meghalaya",
+      "year": 2026,
+      "n": 2162
+    },
+    {
+      "state": "Mizoram",
+      "year": 2022,
+      "n": 421
+    },
+    {
+      "state": "Mizoram",
+      "year": 2023,
+      "n": 2589
+    },
+    {
+      "state": "Mizoram",
+      "year": 2024,
+      "n": 2569
+    },
+    {
+      "state": "Mizoram",
+      "year": 2025,
+      "n": 2567
+    },
+    {
+      "state": "Mizoram",
+      "year": 2026,
+      "n": 2158
+    },
+    {
+      "state": "Punjab",
+      "year": 2022,
+      "n": 1408
+    },
+    {
+      "state": "Punjab",
+      "year": 2023,
+      "n": 8698
+    },
+    {
+      "state": "Punjab",
+      "year": 2024,
+      "n": 8724
+    },
+    {
+      "state": "Punjab",
+      "year": 2025,
+      "n": 8717
+    },
+    {
+      "state": "Punjab",
+      "year": 2026,
+      "n": 7283
+    },
+    {
+      "state": "Tripura",
+      "year": 2022,
+      "n": 418
+    },
+    {
+      "state": "Tripura",
+      "year": 2023,
+      "n": 2592
+    },
+    {
+      "state": "Tripura",
+      "year": 2024,
+      "n": 2568
+    },
+    {
+      "state": "Tripura",
+      "year": 2025,
+      "n": 2563
+    },
+    {
+      "state": "Tripura",
+      "year": 2026,
+      "n": 2124
+    },
+    {
+      "state": "Uttar Pradesh",
+      "year": 2022,
+      "n": 940
+    },
+    {
+      "state": "Uttar Pradesh",
+      "year": 2023,
+      "n": 5804
+    },
+    {
+      "state": "Uttar Pradesh",
+      "year": 2024,
+      "n": 5815
+    },
+    {
+      "state": "Uttar Pradesh",
+      "year": 2025,
+      "n": 5803
+    },
+    {
+      "state": "Uttar Pradesh",
+      "year": 2026,
+      "n": 4855
+    },
+    {
+      "state": "West Bengal",
+      "year": 2022,
+      "n": 940
+    },
+    {
+      "state": "West Bengal",
+      "year": 2023,
+      "n": 5810
+    },
+    {
+      "state": "West Bengal",
+      "year": 2024,
+      "n": 5812
+    },
+    {
+      "state": "West Bengal",
+      "year": 2025,
+      "n": 5803
+    },
+    {
+      "state": "West Bengal",
+      "year": 2026,
+      "n": 4848
+    }
+  ],
+  "null_rate_arrivals": 0.0
+}

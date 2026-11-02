@@ -1,0 +1,26 @@
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${ADMIN_USER}
+      POSTGRES_PASSWORD: ${ADMIN_PASSWORD}
+      RO_USER: ${RO_USER}
+      RO_PASSWORD: ${RO_PASSWORD}
+    ports: ["5432:5432"]
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./sql/schema/01_schema.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro
+      - ./sql/views/02_views.sql:/docker-entrypoint-initdb.d/02_views.sql:ro
+      - ./sql/schema/03_roles.sh:/docker-entrypoint-initdb.d/03_roles.sh:ro
+  app:
+    build: .
+    env_file: .env
+    environment:
+      DB_HOST: db
+    depends_on: [db]
+    ports: ["8501:8501"]
+    volumes: ["./data:/app/data"]
+    command: streamlit run dashboard/app.py --server.address=0.0.0.0
+volumes:
+  pgdata:

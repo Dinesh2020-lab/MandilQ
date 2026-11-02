@@ -1,0 +1,223 @@
+price_date,state,district,market,commodity,variety,grade,min_price,max_price,modal_price,arrivals,reject_reason,source_file
+2023-03-09,Manipur,Imphal East,Imphal,Onion,Local,Faq,-1838.69,2263.37,2041.87,10.221,non_positive_price,agri_market_synthetic.csv
+2024-08-31,Manipur,Imphal East,Imphal,Onion,Local,Faq,3529.38,3029.38,2480.6,13.365,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Manipur,Imphal East,Imphal,Onion,Local,Faq,1791.45,2517.14,2134.66,6.62,future_date,agri_market_synthetic.csv
+2099-12-31,Manipur,Imphal East,Imphal,Potato,Jyoti,B,1463.45,1878.34,1665.04,18.762,future_date,agri_market_synthetic.csv
+2023-10-22,Manipur,Imphal East,Imphal,Tomato,Hybrid,A,3776.38,3276.38,2990.46,5.895,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Manipur,Imphal East,Imphal,Rice,Common,Faq,3183.39,4206.61,3621.88,11.04,future_date,agri_market_synthetic.csv
+2024-07-01,Manipur,Imphal East,Imphal,Rice,Common,Faq,4379.139999999999,3879.14,3539.04,14.216,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Manipur,Imphal East,Imphal,Rice,Common,Faq,2864.69,4368.08,3514.05,11.307,future_date,agri_market_synthetic.csv
+2099-12-31,Manipur,Imphal East,Imphal,Rice,Common,Faq,3483.63,4399.37,3878.1,3.741,future_date,agri_market_synthetic.csv
+2099-12-31,Manipur,Imphal East,Imphal,Rice,Common,Faq,3356.56,4347.3,3833.37,12.291,future_date,agri_market_synthetic.csv
+2023-12-01,Manipur,Imphal East,Imphal,Wheat,Common,Faq,-2476.86,3072.51,2753.26,17.142,non_positive_price,agri_market_synthetic.csv
+2025-06-15,Manipur,Imphal East,Imphal,Wheat,Common,Faq,-2547.0,3408.13,2936.78,3.245,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Manipur,Imphal East,Imphal,Ginger,Local,Standard,6400.77,8486.29,7361.73,3.569,future_date,agri_market_synthetic.csv
+2026-05-26,Manipur,Imphal East,Imphal,Ginger,Local,Standard,-5957.89,9059.38,7319.54,5.097,non_positive_price,agri_market_synthetic.csv
+2026-10-14,Manipur,Imphal East,Imphal,Ginger,Local,Standard,7340.9,6840.9,5980.01,5.763,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Manipur,Imphal East,Imphal,Cabbage,Green,Faq,1576.4,2077.97,1792.71,7.475,future_date,agri_market_synthetic.csv
+2025-10-22,Manipur,Imphal East,Imphal,Cabbage,Green,Faq,2399.48,1899.48,1726.48,4.959,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Manipur,Imphal East,Imphal,Banana,Robusta,A,2267.43,3233.71,2698.04,8.263,future_date,agri_market_synthetic.csv
+2024-08-25,Manipur,Imphal East,Imphal,Banana,Robusta,A,3354.89,2854.89,2419.46,13.112,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Manipur,Imphal East,Imphal,Banana,Robusta,A,2216.21,3088.95,2650.19,9.722,future_date,agri_market_synthetic.csv
+2099-12-31,Manipur,Thoubal,Thoubal,Onion,Red,Faq,2164.15,2795.29,2473.7,11.952,future_date,agri_market_synthetic.csv
+2099-12-31,Manipur,Thoubal,Thoubal,Potato,Local,A,1376.69,1924.06,1647.56,5.757,future_date,agri_market_synthetic.csv
+2099-12-31,Manipur,Thoubal,Thoubal,Potato,Local,A,1431.93,1696.57,1564.24,9.012,future_date,agri_market_synthetic.csv
+2099-12-31,Manipur,Thoubal,Thoubal,Tomato,Desi,Standard,3100.7,4216.5,3639.89,7.334,future_date,agri_market_synthetic.csv
+2024-10-07,Manipur,Thoubal,Thoubal,Rice,Common,Standard,4333.65,3833.65,3294.69,3.772,price_order_violation,agri_market_synthetic.csv
+2023-05-11,Manipur,Thoubal,Thoubal,Wheat,Common,B,-2376.38,3334.21,2845.98,5.648,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Manipur,Thoubal,Thoubal,Wheat,Common,B,2453.9,3514.88,2912.12,5.914,future_date,agri_market_synthetic.csv
+2026-10-25,Manipur,Thoubal,Thoubal,Wheat,Common,B,-2680.93,3349.56,2968.37,4.93,non_positive_price,agri_market_synthetic.csv
+2023-04-29,Manipur,Thoubal,Thoubal,Ginger,Fresh,A,-4995.22,7378.63,6163.1,1.978,non_positive_price,agri_market_synthetic.csv
+2023-09-06,Manipur,Thoubal,Thoubal,Ginger,Fresh,A,-5888.53,8115.55,6985.55,13.278,non_positive_price,agri_market_synthetic.csv
+2025-10-29,Manipur,Thoubal,Thoubal,Cabbage,Hybrid,Standard,-1798.77,2352.8,2066.94,9.288,non_positive_price,agri_market_synthetic.csv
+2025-11-25,Manipur,Thoubal,Thoubal,Banana,Dwarf Cavendish,B,2963.27,2463.27,2260.69,10.614,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Manipur,Thoubal,Thoubal,Banana,Dwarf Cavendish,B,2182.25,3328.96,2691.01,15.778,future_date,agri_market_synthetic.csv
+2023-03-10,Tripura,West Tripura,Agartala,Onion,Red,A,-2114.0,2695.84,2364.31,6.507,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Tripura,West Tripura,Agartala,Onion,Red,A,2144.8,3120.67,2629.33,12.545,future_date,agri_market_synthetic.csv
+2099-12-31,Tripura,West Tripura,Agartala,Onion,Red,A,2646.28,3424.37,2981.39,16.127,future_date,agri_market_synthetic.csv
+2099-12-31,Tripura,West Tripura,Agartala,Potato,Kufri,Faq,1304.83,1867.32,1554.46,4.111,future_date,agri_market_synthetic.csv
+2099-12-31,Tripura,West Tripura,Agartala,Tomato,Hybrid,Standard,3322.38,4171.2,3718.36,5.138,future_date,agri_market_synthetic.csv
+2099-12-31,Tripura,West Tripura,Agartala,Tomato,Hybrid,Standard,3345.35,4942.74,4051.0,6.295,future_date,agri_market_synthetic.csv
+2099-12-31,Tripura,West Tripura,Agartala,Rice,Common,B,2777.65,3246.49,3010.89,4.882,future_date,agri_market_synthetic.csv
+2025-10-19,Tripura,West Tripura,Agartala,Rice,Common,B,4271.16,3771.16,3216.01,21.569,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Tripura,West Tripura,Agartala,Wheat,Sharbati,B,2396.2,3183.18,2755.15,5.427,future_date,agri_market_synthetic.csv
+2099-12-31,Tripura,West Tripura,Agartala,Ginger,Fresh,Standard,4539.67,6843.24,5562.36,5.978,future_date,agri_market_synthetic.csv
+2023-06-07,Assam,Kamrup Metropolitan,Guwahati,Onion,Local,B,3031.49,2531.49,2340.65,10.63,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Assam,Kamrup Metropolitan,Guwahati,Potato,Local,B,1093.14,1408.2,1240.35,10.934,future_date,agri_market_synthetic.csv
+2099-12-31,Assam,Kamrup Metropolitan,Guwahati,Potato,Local,B,1179.18,1570.69,1369.56,4.133,future_date,agri_market_synthetic.csv
+2024-10-30,Assam,Kamrup Metropolitan,Guwahati,Tomato,Desi,A,3921.95,3421.95,3091.54,2.389,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Assam,Kamrup Metropolitan,Guwahati,Tomato,Desi,A,2766.0,3370.7,3054.76,4.482,future_date,agri_market_synthetic.csv
+2099-12-31,Assam,Kamrup Metropolitan,Guwahati,Rice,Swarna,Faq,2661.93,3887.63,3239.71,2.041,future_date,agri_market_synthetic.csv
+2023-05-28,Assam,Kamrup Metropolitan,Guwahati,Ginger,Dry,Faq,-6434.25,9147.56,7756.83,8.92,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Assam,Kamrup Metropolitan,Guwahati,Ginger,Dry,Faq,7357.36,10098.29,8594.27,13.261,future_date,agri_market_synthetic.csv
+2025-02-06,Assam,Kamrup Metropolitan,Guwahati,Cabbage,Green,Faq,2653.18,2153.18,1811.82,2.598,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Assam,Kamrup Metropolitan,Guwahati,Cabbage,Green,Faq,1401.05,1803.44,1583.93,1.656,future_date,agri_market_synthetic.csv
+2024-03-17,Assam,Kamrup Metropolitan,Guwahati,Banana,Dwarf Cavendish,B,-2589.28,3247.72,2882.75,9.554,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Assam,Jorhat,Jorhat,Onion,White,B,1876.06,2568.71,2183.74,10.715,future_date,agri_market_synthetic.csv
+2024-11-05,Assam,Jorhat,Jorhat,Onion,White,B,2961.83,2461.83,2040.44,6.318,price_order_violation,agri_market_synthetic.csv
+2025-06-14,Assam,Jorhat,Jorhat,Onion,White,B,2937.07,2437.07,2069.01,8.291,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Assam,Jorhat,Jorhat,Onion,White,B,2081.9,2864.38,2461.33,4.925,future_date,agri_market_synthetic.csv
+2026-10-19,Assam,Jorhat,Jorhat,Potato,Jyoti,B,-1532.8,1959.9,1729.04,11.3,non_positive_price,agri_market_synthetic.csv
+2022-12-03,Assam,Jorhat,Jorhat,Tomato,Local,A,4004.61,3504.61,3194.63,3.014,price_order_violation,agri_market_synthetic.csv
+2026-10-06,Assam,Jorhat,Jorhat,Tomato,Local,A,4564.6,4064.6,3491.27,4.759,price_order_violation,agri_market_synthetic.csv
+2026-08-23,Assam,Jorhat,Jorhat,Wheat,Common,Faq,3193.76,2693.76,2453.92,8.075,price_order_violation,agri_market_synthetic.csv
+2022-12-17,Assam,Jorhat,Jorhat,Ginger,Local,A,-4772.93,6094.48,5433.49,9.111,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Assam,Jorhat,Jorhat,Ginger,Local,A,4416.6,5772.06,5079.97,6.164,future_date,agri_market_synthetic.csv
+2024-09-23,Assam,Dibrugarh,Dibrugarh,Onion,White,B,-1930.31,2893.35,2375.63,18.16,non_positive_price,agri_market_synthetic.csv
+2023-04-19,Assam,Dibrugarh,Dibrugarh,Potato,Local,A,-1311.51,1635.05,1452.56,7.682,non_positive_price,agri_market_synthetic.csv
+2023-06-04,Assam,Dibrugarh,Dibrugarh,Potato,Local,A,2324.4,1824.4,1550.59,11.752,price_order_violation,agri_market_synthetic.csv
+2026-04-18,Assam,Dibrugarh,Dibrugarh,Potato,Local,A,-1215.2,1528.69,1351.85,7.947,non_positive_price,agri_market_synthetic.csv
+2024-06-03,Assam,Dibrugarh,Dibrugarh,Rice,Common,A,-2462.09,3235.12,2826.91,10.992,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Assam,Dibrugarh,Dibrugarh,Rice,Common,A,2488.2,3607.5,3037.84,18.648,future_date,agri_market_synthetic.csv
+2026-08-17,Assam,Dibrugarh,Dibrugarh,Wheat,Lokwan,B,-2157.85,2975.69,2528.07,8.021,non_positive_price,agri_market_synthetic.csv
+2023-07-25,Assam,Dibrugarh,Dibrugarh,Ginger,Dry,B,-5751.36,7945.21,6821.09,10.905,non_positive_price,agri_market_synthetic.csv
+2025-07-13,Assam,Dibrugarh,Dibrugarh,Cabbage,Green,A,2902.29,2402.29,2038.76,7.056,price_order_violation,agri_market_synthetic.csv
+2026-01-08,Assam,Dibrugarh,Dibrugarh,Cabbage,Green,A,2343.9,1843.9,1657.03,8.868,price_order_violation,agri_market_synthetic.csv
+2026-06-24,Assam,Dibrugarh,Dibrugarh,Banana,Local,B,-2195.89,3123.08,2640.82,6.998,non_positive_price,agri_market_synthetic.csv
+2024-03-27,Meghalaya,East Khasi Hills,Shillong,Onion,Red,Standard,3378.6,2878.6,2612.58,3.014,price_order_violation,agri_market_synthetic.csv
+2026-05-10,Meghalaya,East Khasi Hills,Shillong,Onion,Red,Standard,-2213.08,3010.85,2574.67,8.917,non_positive_price,agri_market_synthetic.csv
+2024-10-06,Meghalaya,East Khasi Hills,Shillong,Potato,Kufri,Standard,-1542.2,2000.56,1738.54,3.327,non_positive_price,agri_market_synthetic.csv
+2025-03-29,Meghalaya,East Khasi Hills,Shillong,Potato,Kufri,Standard,2565.62,2065.62,1751.19,6.424,price_order_violation,agri_market_synthetic.csv
+2026-06-30,Meghalaya,East Khasi Hills,Shillong,Tomato,Hybrid,B,5002.24,4502.24,3855.49,16.499,price_order_violation,agri_market_synthetic.csv
+2023-06-02,Meghalaya,East Khasi Hills,Shillong,Rice,Common,A,4276.719999999999,3776.72,3346.66,10.044,price_order_violation,agri_market_synthetic.csv
+2025-08-03,Meghalaya,East Khasi Hills,Shillong,Rice,Common,A,-3009.67,3679.64,3309.42,4.279,non_positive_price,agri_market_synthetic.csv
+2023-09-27,Meghalaya,East Khasi Hills,Shillong,Wheat,Common,B,4164.719999999999,3664.72,3127.78,7.318,price_order_violation,agri_market_synthetic.csv
+2023-11-08,Meghalaya,East Khasi Hills,Shillong,Wheat,Common,B,-2704.88,3235.16,2938.11,10.121,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Meghalaya,East Khasi Hills,Shillong,Wheat,Common,B,2287.33,3532.83,2823.67,13.484,future_date,agri_market_synthetic.csv
+2024-09-07,Meghalaya,East Khasi Hills,Shillong,Ginger,Local,Standard,7691.67,7191.67,5909.0,6.556,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Meghalaya,East Khasi Hills,Shillong,Cabbage,Hybrid,Standard,1158.7,1716.15,1425.41,7.084,future_date,agri_market_synthetic.csv
+2025-08-17,Meghalaya,East Khasi Hills,Shillong,Cabbage,Hybrid,Standard,-1725.91,2259.83,1977.83,12.719,non_positive_price,agri_market_synthetic.csv
+2023-10-29,Mizoram,Aizawl,Aizawl,Onion,Red,Standard,-2417.64,3021.35,2715.07,4.545,non_positive_price,agri_market_synthetic.csv
+2026-02-26,Mizoram,Aizawl,Aizawl,Tomato,Hybrid,A,-1874.81,2423.87,2139.54,8.183,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Mizoram,Aizawl,Aizawl,Rice,Swarna,A,3455.76,4324.36,3881.46,9.901,future_date,agri_market_synthetic.csv
+2099-12-31,Mizoram,Aizawl,Aizawl,Rice,Swarna,A,3233.36,4966.49,3978.56,8.387,future_date,agri_market_synthetic.csv
+2099-12-31,Mizoram,Aizawl,Aizawl,Rice,Swarna,A,3406.3,4614.78,3983.19,7.484,future_date,agri_market_synthetic.csv
+2099-12-31,Mizoram,Aizawl,Aizawl,Ginger,Local,Faq,6300.99,7424.86,6779.93,5.82,future_date,agri_market_synthetic.csv
+2026-03-29,Mizoram,Aizawl,Aizawl,Ginger,Local,Faq,9433.03,8933.03,7476.73,3.284,price_order_violation,agri_market_synthetic.csv
+2026-04-18,Mizoram,Aizawl,Aizawl,Ginger,Local,Faq,-6488.18,7612.55,6986.62,11.634,non_positive_price,agri_market_synthetic.csv
+2022-12-16,Maharashtra,Pune,Pune,Potato,Local,Faq,-1432.12,1920.59,1667.52,14.075,non_positive_price,agri_market_synthetic.csv
+2025-01-16,Maharashtra,Pune,Pune,Potato,Local,Faq,2355.67,1855.67,1682.82,5.337,price_order_violation,agri_market_synthetic.csv
+2023-06-21,Maharashtra,Pune,Pune,Tomato,Desi,Faq,-2047.36,2728.35,2359.88,14.032,non_positive_price,agri_market_synthetic.csv
+2023-12-28,Maharashtra,Pune,Pune,Tomato,Desi,Faq,3213.71,2713.71,2485.74,13.701,price_order_violation,agri_market_synthetic.csv
+2024-08-22,Maharashtra,Pune,Pune,Tomato,Desi,Faq,3107.3,2607.3,2397.26,10.255,price_order_violation,agri_market_synthetic.csv
+2023-11-09,Maharashtra,Pune,Pune,Rice,Swarna,B,3653.12,3153.12,2807.68,10.715,price_order_violation,agri_market_synthetic.csv
+2025-12-24,Maharashtra,Pune,Pune,Rice,Swarna,B,-2532.42,3345.29,2906.21,5.13,non_positive_price,agri_market_synthetic.csv
+2026-04-09,Maharashtra,Pune,Pune,Rice,Swarna,B,3965.63,3465.63,3000.16,7.433,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Maharashtra,Pune,Pune,Ginger,Fresh,B,4599.54,5466.5,4988.82,5.894,future_date,agri_market_synthetic.csv
+2099-12-31,Maharashtra,Pune,Pune,Cabbage,Local,A,2000.38,3001.2,2450.84,5.833,future_date,agri_market_synthetic.csv
+2024-07-03,Maharashtra,Pune,Pune,Banana,Dwarf Cavendish,Faq,-1768.81,2204.52,1971.88,4.485,non_positive_price,agri_market_synthetic.csv
+2025-06-04,Maharashtra,Pune,Pune,Banana,Dwarf Cavendish,Faq,2914.61,2414.61,2019.37,10.576,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Maharashtra,Nashik,Nashik,Potato,Local,A,1135.11,1572.66,1339.51,4.79,future_date,agri_market_synthetic.csv
+2023-11-06,Maharashtra,Nashik,Nashik,Potato,Local,A,-1036.77,1432.16,1213.05,4.248,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Maharashtra,Nashik,Nashik,Potato,Local,A,1230.84,1668.1,1439.04,8.699,future_date,agri_market_synthetic.csv
+2024-12-03,Maharashtra,Nashik,Nashik,Potato,Local,A,1941.19,1441.19,1198.7,11.172,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Maharashtra,Nashik,Nashik,Tomato,Desi,Faq,2381.61,2951.57,2646.31,2.561,future_date,agri_market_synthetic.csv
+2026-04-08,Maharashtra,Nashik,Nashik,Tomato,Desi,Faq,-2239.71,2638.55,2438.99,6.068,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Maharashtra,Nashik,Nashik,Rice,Swarna,B,2700.39,3406.79,3033.71,14.076,future_date,agri_market_synthetic.csv
+2023-04-20,Maharashtra,Nashik,Nashik,Rice,Swarna,B,4407.98,3907.98,3264.09,12.439,price_order_violation,agri_market_synthetic.csv
+2026-01-10,Maharashtra,Nashik,Nashik,Rice,Swarna,B,-2648.6,3476.95,3044.82,8.651,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Maharashtra,Nashik,Nashik,Ginger,Fresh,B,5403.29,6548.39,5943.68,21.095,future_date,agri_market_synthetic.csv
+2024-10-09,Maharashtra,Nashik,Nashik,Ginger,Fresh,B,7815.65,7315.65,6251.02,6.539,price_order_violation,agri_market_synthetic.csv
+2025-08-25,Maharashtra,Nashik,Nashik,Ginger,Fresh,B,-4450.26,6112.66,5170.93,7.207,non_positive_price,agri_market_synthetic.csv
+2025-03-21,Maharashtra,Nashik,Nashik,Banana,Local,B,3117.83,2617.83,2103.91,9.845,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Maharashtra,Nashik,Nashik,Banana,Local,B,2206.64,3261.61,2706.59,8.918,future_date,agri_market_synthetic.csv
+2024-04-25,Maharashtra,Nagpur,Nagpur,Onion,White,Faq,2908.99,2408.99,2210.09,7.558,price_order_violation,agri_market_synthetic.csv
+2026-10-12,Maharashtra,Nagpur,Nagpur,Wheat,Common,Faq,-2291.7,2805.03,2514.25,8.204,non_positive_price,agri_market_synthetic.csv
+2023-03-21,Maharashtra,Nagpur,Nagpur,Ginger,Fresh,Standard,-4751.51,5844.8,5280.74,2.49,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Maharashtra,Nagpur,Nagpur,Ginger,Fresh,Standard,5088.13,7604.03,6191.42,7.377,future_date,agri_market_synthetic.csv
+2026-09-13,Maharashtra,Nagpur,Nagpur,Ginger,Fresh,Standard,8707.73,8207.73,7176.78,3.655,price_order_violation,agri_market_synthetic.csv
+2023-09-11,Maharashtra,Nagpur,Nagpur,Cabbage,Green,A,2940.22,2440.22,2246.93,12.04,price_order_violation,agri_market_synthetic.csv
+2023-12-08,Maharashtra,Nagpur,Nagpur,Cabbage,Green,A,-1866.91,2843.78,2289.55,11.015,non_positive_price,agri_market_synthetic.csv
+2023-04-28,Maharashtra,Nagpur,Nagpur,Banana,Robusta,Standard,-2097.61,2508.87,2302.95,5.145,non_positive_price,agri_market_synthetic.csv
+2023-11-29,Uttar Pradesh,Lucknow,Lucknow,Onion,Local,A,2409.8900000000003,1909.89,1727.74,9.88,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Uttar Pradesh,Lucknow,Lucknow,Onion,Local,A,1368.09,1904.09,1622.35,6.986,future_date,agri_market_synthetic.csv
+2024-07-26,Uttar Pradesh,Lucknow,Lucknow,Onion,Local,A,2420.4700000000003,1920.47,1538.35,7.897,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Uttar Pradesh,Lucknow,Lucknow,Potato,Kufri,Standard,1184.62,1521.42,1337.8,9.045,future_date,agri_market_synthetic.csv
+2024-06-18,Uttar Pradesh,Lucknow,Lucknow,Tomato,Hybrid,A,-2027.62,2889.96,2434.55,4.765,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Uttar Pradesh,Lucknow,Lucknow,Tomato,Hybrid,A,1954.53,2490.66,2219.69,17.894,future_date,agri_market_synthetic.csv
+2025-03-13,Uttar Pradesh,Lucknow,Lucknow,Tomato,Hybrid,A,3923.56,3423.56,3070.09,5.486,price_order_violation,agri_market_synthetic.csv
+2023-12-27,Uttar Pradesh,Lucknow,Lucknow,Rice,Swarna,B,3586.8,3086.8,2577.55,4.6,price_order_violation,agri_market_synthetic.csv
+2024-05-02,Uttar Pradesh,Lucknow,Lucknow,Wheat,Sharbati,B,3452.29,2952.29,2481.44,8.708,price_order_violation,agri_market_synthetic.csv
+2024-06-20,Uttar Pradesh,Lucknow,Lucknow,Wheat,Sharbati,B,3316.35,2816.35,2508.2,3.4,price_order_violation,agri_market_synthetic.csv
+2025-11-03,Uttar Pradesh,Lucknow,Lucknow,Ginger,Dry,Standard,10075.36,9575.36,8155.93,10.616,price_order_violation,agri_market_synthetic.csv
+2023-03-08,Uttar Pradesh,Lucknow,Lucknow,Cabbage,Green,A,-1432.97,1801.74,1613.94,3.798,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Uttar Pradesh,Lucknow,Lucknow,Cabbage,Green,A,1184.35,1720.71,1433.6,21.049,future_date,agri_market_synthetic.csv
+2023-08-16,Uttar Pradesh,Agra,Agra,Onion,White,Faq,-1686.22,2437.15,2043.41,4.219,non_positive_price,agri_market_synthetic.csv
+2023-12-12,Uttar Pradesh,Agra,Agra,Onion,White,Faq,-2155.16,2756.03,2450.7,11.154,non_positive_price,agri_market_synthetic.csv
+2024-11-18,Uttar Pradesh,Agra,Agra,Onion,White,Faq,3509.7,3009.7,2538.15,1.841,price_order_violation,agri_market_synthetic.csv
+2026-02-05,Uttar Pradesh,Agra,Agra,Onion,White,Faq,3482.94,2982.94,2396.07,7.854,price_order_violation,agri_market_synthetic.csv
+2023-02-27,Uttar Pradesh,Agra,Agra,Tomato,Desi,A,-2595.75,3441.71,2994.57,6.35,non_positive_price,agri_market_synthetic.csv
+2024-10-31,Uttar Pradesh,Agra,Agra,Wheat,Common,Faq,-1861.21,2421.13,2133.11,11.26,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Uttar Pradesh,Agra,Agra,Ginger,Fresh,Faq,4851.06,5712.57,5226.75,6.684,future_date,agri_market_synthetic.csv
+2099-12-31,Uttar Pradesh,Agra,Agra,Ginger,Fresh,Faq,3981.31,5591.72,4691.74,4.933,future_date,agri_market_synthetic.csv
+2023-09-23,Uttar Pradesh,Agra,Agra,Cabbage,Green,B,2884.97,2384.97,2028.89,19.27,price_order_violation,agri_market_synthetic.csv
+2025-01-27,Uttar Pradesh,Agra,Agra,Cabbage,Green,B,-1673.66,2139.19,1891.52,6.228,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Uttar Pradesh,Agra,Agra,Cabbage,Green,B,1530.2,1997.98,1753.44,6.771,future_date,agri_market_synthetic.csv
+2026-08-09,Uttar Pradesh,Agra,Agra,Cabbage,Green,B,-1538.67,1962.08,1724.62,2.462,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Uttar Pradesh,Agra,Agra,Banana,Robusta,A,1724.41,2304.91,2002.68,6.331,future_date,agri_market_synthetic.csv
+2023-07-29,Uttar Pradesh,Agra,Agra,Banana,Robusta,A,-2117.56,2972.87,2501.04,4.976,non_positive_price,agri_market_synthetic.csv
+2022-12-11,Karnataka,Bengaluru Urban,Bengaluru,Onion,White,Standard,3534.43,3034.43,2677.92,17.352,price_order_violation,agri_market_synthetic.csv
+2026-05-20,Karnataka,Bengaluru Urban,Bengaluru,Onion,White,Standard,2806.09,2306.09,2066.78,6.545,price_order_violation,agri_market_synthetic.csv
+2025-10-22,Karnataka,Bengaluru Urban,Bengaluru,Potato,Jyoti,A,-1162.59,1417.9,1280.66,6.764,non_positive_price,agri_market_synthetic.csv
+2026-01-11,Karnataka,Bengaluru Urban,Bengaluru,Potato,Jyoti,A,2207.44,1707.44,1470.67,6.395,price_order_violation,agri_market_synthetic.csv
+2023-09-15,Karnataka,Bengaluru Urban,Bengaluru,Tomato,Desi,Standard,4383.75,3883.75,3480.95,10.881,price_order_violation,agri_market_synthetic.csv
+2024-11-16,Karnataka,Bengaluru Urban,Bengaluru,Tomato,Desi,Standard,3298.51,2798.51,2362.05,24.134,price_order_violation,agri_market_synthetic.csv
+2025-09-11,Karnataka,Bengaluru Urban,Bengaluru,Tomato,Desi,Standard,-2945.6,3788.74,3335.23,5.93,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Karnataka,Bengaluru Urban,Bengaluru,Rice,Common,Standard,2571.74,3718.17,3100.99,14.559,future_date,agri_market_synthetic.csv
+2026-03-14,Karnataka,Bengaluru Urban,Bengaluru,Ginger,Fresh,Faq,-5318.3,6505.52,5864.48,12.969,non_positive_price,agri_market_synthetic.csv
+2024-05-07,Karnataka,Bengaluru Urban,Bengaluru,Banana,Dwarf Cavendish,Standard,-2497.54,2993.36,2725.29,7.979,non_positive_price,agri_market_synthetic.csv
+2022-12-23,Karnataka,Dharwad,Hubballi,Onion,White,Standard,-2592.54,3614.0,3042.61,8.007,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Karnataka,Dharwad,Hubballi,Onion,White,Standard,2162.5,2912.05,2517.88,17.109,future_date,agri_market_synthetic.csv
+2099-12-31,Karnataka,Dharwad,Hubballi,Tomato,Desi,Faq,2433.65,3037.91,2711.73,7.982,future_date,agri_market_synthetic.csv
+2025-01-26,Karnataka,Dharwad,Hubballi,Ginger,Fresh,A,-5288.06,7630.37,6334.95,5.703,non_positive_price,agri_market_synthetic.csv
+2026-04-29,Karnataka,Dharwad,Hubballi,Ginger,Fresh,A,9317.23,8817.23,7431.73,13.67,price_order_violation,agri_market_synthetic.csv
+2099-12-31,West Bengal,Kolkata,Kolkata,Onion,Red,Standard,1345.52,2046.04,1656.12,2.455,future_date,agri_market_synthetic.csv
+2099-12-31,West Bengal,Kolkata,Kolkata,Onion,Red,Standard,1932.8,2514.83,2202.07,8.879,future_date,agri_market_synthetic.csv
+2099-12-31,West Bengal,Kolkata,Kolkata,Potato,Jyoti,B,1174.63,1716.36,1426.35,5.866,future_date,agri_market_synthetic.csv
+2023-04-15,West Bengal,Kolkata,Kolkata,Potato,Jyoti,B,-1442.55,1896.93,1640.71,17.513,non_positive_price,agri_market_synthetic.csv
+2023-10-24,West Bengal,Kolkata,Kolkata,Potato,Jyoti,B,1946.25,1446.25,1304.99,4.945,price_order_violation,agri_market_synthetic.csv
+2099-12-31,West Bengal,Kolkata,Kolkata,Rice,Common,Standard,2908.62,3965.16,3359.93,10.437,future_date,agri_market_synthetic.csv
+2024-03-27,West Bengal,Kolkata,Kolkata,Rice,Common,Standard,-2981.44,3583.57,3255.21,9.073,non_positive_price,agri_market_synthetic.csv
+2024-03-31,West Bengal,Kolkata,Kolkata,Rice,Common,Standard,-2814.02,4124.24,3465.34,21.706,non_positive_price,agri_market_synthetic.csv
+2025-05-01,West Bengal,Kolkata,Kolkata,Rice,Common,Standard,-3104.68,3928.68,3483.62,7.881,non_positive_price,agri_market_synthetic.csv
+2026-03-13,West Bengal,Kolkata,Kolkata,Wheat,Common,Faq,3776.56,3276.56,2836.22,4.967,price_order_violation,agri_market_synthetic.csv
+2099-12-31,West Bengal,Kolkata,Kolkata,Ginger,Fresh,Faq,4818.44,6917.89,5808.32,6.236,future_date,agri_market_synthetic.csv
+2099-12-31,West Bengal,Kolkata,Kolkata,Cabbage,Green,A,1804.71,2631.44,2185.95,2.448,future_date,agri_market_synthetic.csv
+2024-03-28,West Bengal,Kolkata,Kolkata,Cabbage,Green,A,-1839.75,2382.51,2078.07,6.819,non_positive_price,agri_market_synthetic.csv
+2023-04-29,West Bengal,Kolkata,Kolkata,Banana,Robusta,Standard,-2262.26,3369.51,2753.44,6.046,non_positive_price,agri_market_synthetic.csv
+2024-05-17,West Bengal,Kolkata,Kolkata,Banana,Robusta,Standard,3345.77,2845.77,2475.08,23.329,price_order_violation,agri_market_synthetic.csv
+2022-11-30,West Bengal,Darjeeling,Siliguri,Onion,White,Standard,-1471.7,1992.29,1727.49,18.797,non_positive_price,agri_market_synthetic.csv
+2023-12-04,West Bengal,Darjeeling,Siliguri,Potato,Jyoti,Standard,2429.51,1929.51,1588.25,11.017,price_order_violation,agri_market_synthetic.csv
+2025-05-03,West Bengal,Darjeeling,Siliguri,Potato,Jyoti,Standard,-1554.71,1837.75,1690.81,5.01,non_positive_price,agri_market_synthetic.csv
+2024-10-15,West Bengal,Darjeeling,Siliguri,Rice,Fine,Faq,3883.52,3383.52,3089.42,19.828,price_order_violation,agri_market_synthetic.csv
+2099-12-31,West Bengal,Darjeeling,Siliguri,Wheat,Sharbati,B,2560.15,3193.04,2855.29,10.351,future_date,agri_market_synthetic.csv
+2025-11-29,West Bengal,Darjeeling,Siliguri,Wheat,Sharbati,B,-2466.36,3673.48,2987.28,4.666,non_positive_price,agri_market_synthetic.csv
+2024-07-14,West Bengal,Darjeeling,Siliguri,Cabbage,Local,Standard,-1395.93,1792.32,1572.98,9.363,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Punjab,Ludhiana,Ludhiana,Potato,Jyoti,Faq,1402.15,1790.37,1574.62,10.632,future_date,agri_market_synthetic.csv
+2026-09-10,Punjab,Ludhiana,Ludhiana,Potato,Jyoti,Faq,1780.57,1280.57,1151.82,8.449,price_order_violation,agri_market_synthetic.csv
+2026-09-18,Punjab,Ludhiana,Ludhiana,Potato,Jyoti,Faq,2079.51,1579.51,1389.34,3.223,price_order_violation,agri_market_synthetic.csv
+2023-11-06,Punjab,Ludhiana,Ludhiana,Rice,Common,Faq,3613.54,3113.54,2557.85,9.978,price_order_violation,agri_market_synthetic.csv
+2025-02-04,Punjab,Ludhiana,Ludhiana,Wheat,Common,Standard,-2026.69,2913.52,2465.45,8.083,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Punjab,Ludhiana,Ludhiana,Cabbage,Green,Faq,1550.27,2063.09,1804.3,2.474,future_date,agri_market_synthetic.csv
+2099-12-31,Punjab,Ludhiana,Ludhiana,Banana,Robusta,Faq,1935.76,2351.27,2117.48,3.557,future_date,agri_market_synthetic.csv
+2022-12-03,Punjab,Amritsar,Amritsar,Onion,Local,Faq,2735.9,2235.9,1955.28,3.38,price_order_violation,agri_market_synthetic.csv
+2024-10-01,Punjab,Amritsar,Amritsar,Potato,Local,A,2028.03,1528.03,1370.3,3.792,price_order_violation,agri_market_synthetic.csv
+2025-05-20,Punjab,Amritsar,Amritsar,Potato,Local,A,-1157.58,1628.95,1382.45,6.344,non_positive_price,agri_market_synthetic.csv
+2026-03-22,Punjab,Amritsar,Amritsar,Tomato,Local,Faq,3161.78,2661.78,2289.28,4.027,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Punjab,Amritsar,Amritsar,Rice,Swarna,A,2526.12,3665.53,3038.61,12.337,future_date,agri_market_synthetic.csv
+2099-12-31,Punjab,Amritsar,Amritsar,Wheat,Common,Faq,1763.15,2234.71,1985.05,5.715,future_date,agri_market_synthetic.csv
+2024-05-10,Punjab,Amritsar,Amritsar,Wheat,Common,Faq,3107.1,2607.1,2213.87,18.837,price_order_violation,agri_market_synthetic.csv
+2024-06-15,Punjab,Amritsar,Amritsar,Ginger,Local,Faq,-6055.15,8737.01,7349.26,7.502,non_positive_price,agri_market_synthetic.csv
+2023-05-12,Punjab,Amritsar,Amritsar,Cabbage,Local,B,-1322.83,1633.06,1468.23,11.73,non_positive_price,agri_market_synthetic.csv
+2023-03-28,Punjab,Amritsar,Amritsar,Banana,Dwarf Cavendish,A,3552.49,3052.49,2440.9,13.192,price_order_violation,agri_market_synthetic.csv
+2023-08-22,Punjab,Amritsar,Amritsar,Banana,Dwarf Cavendish,A,2867.91,2367.91,2073.93,3.935,price_order_violation,agri_market_synthetic.csv
+2024-01-30,Punjab,Amritsar,Amritsar,Banana,Dwarf Cavendish,A,2848.75,2348.75,2155.92,9.071,price_order_violation,agri_market_synthetic.csv
+2023-08-26,Punjab,Jalandhar,Jalandhar,Onion,Local,B,-1657.66,2397.39,2011.53,8.998,non_positive_price,agri_market_synthetic.csv
+2099-12-31,Punjab,Jalandhar,Jalandhar,Tomato,Local,A,2095.59,2631.51,2336.56,7.116,future_date,agri_market_synthetic.csv
+2023-06-04,Punjab,Jalandhar,Jalandhar,Tomato,Local,A,3568.84,3068.84,2667.21,13.845,price_order_violation,agri_market_synthetic.csv
+2025-03-08,Punjab,Jalandhar,Jalandhar,Rice,Swarna,B,-2584.11,3074.3,2824.31,16.184,non_positive_price,agri_market_synthetic.csv
+2023-05-10,Punjab,Jalandhar,Jalandhar,Ginger,Fresh,Faq,-5803.61,6964.12,6304.21,6.892,non_positive_price,agri_market_synthetic.csv
+2024-08-08,Punjab,Jalandhar,Jalandhar,Ginger,Fresh,Faq,5998.38,5498.38,4844.21,5.836,price_order_violation,agri_market_synthetic.csv
+2099-12-31,Punjab,Jalandhar,Jalandhar,Ginger,Fresh,Faq,5326.64,6859.13,5986.55,5.548,future_date,agri_market_synthetic.csv
+2026-05-06,Punjab,Jalandhar,Jalandhar,Ginger,Fresh,Faq,-5075.25,6829.54,5840.72,20.67,non_positive_price,agri_market_synthetic.csv
+2023-10-27,Punjab,Jalandhar,Jalandhar,Banana,Robusta,A,2890.45,2390.45,1998.87,2.786,price_order_violation,agri_market_synthetic.csv

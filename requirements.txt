@@ -1,0 +1,11 @@
+pandas>=2.1
+numpy
+sqlalchemy>=2.0
+psycopg2-binary
+sqlglot>=25
+scipy
+streamlit
+plotly
+requests
+pytest
+ruff
