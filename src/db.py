@@ -1,18 +1,44 @@
-"""Database engines: admin (ETL) and read-only (assistant). Config from environment only."""
+"""Database engines for local Docker and Render PostgreSQL."""
+
 import os
 from sqlalchemy import create_engine
 from sqlalchemy.engine import Engine
 
 
-def _url(user_key: str, pw_key: str) -> str:
-    return (f"postgresql+psycopg2://{os.environ[user_key]}:{os.environ[pw_key]}"
-            f"@{os.getenv('DB_HOST', 'localhost')}:{os.getenv('DB_PORT', '5432')}/{os.environ['POSTGRES_DB']}")
+def _url() -> str:
+    url = os.getenv("DATABASE_URL")
+
+    if url:
+        if url.startswith("postgres://"):
+            url = url.replace(
+                "postgres://", "postgresql+psycopg2://", 1
+            )
+        elif url.startswith("postgresql://"):
+            url = url.replace(
+                "postgresql://", "postgresql+psycopg2://", 1
+            )
+        return url
+
+    return (
+        f"postgresql+psycopg2://"
+        f"{os.environ['ADMIN_USER']}:{os.environ['ADMIN_PASSWORD']}"
+        f"@{os.getenv('DB_HOST', 'localhost')}:"
+        f"{os.getenv('DB_PORT', '5432')}/"
+        f"{os.environ['POSTGRES_DB']}"
+    )
 
 
 def admin_engine() -> Engine:
-    return create_engine(_url("ADMIN_USER", "ADMIN_PASSWORD"))
+    return create_engine(_url())
 
 
 def readonly_engine() -> Engine:
-    return create_engine(_url("RO_USER", "RO_PASSWORD"),
-                         connect_args={"options": "-c statement_timeout=10000 -c default_transaction_read_only=on"})
+    return create_engine(
+        _url(),
+        connect_args={
+            "options": (
+                "-c statement_timeout=10000 "
+                "-c default_transaction_read_only=on"
+            )
+        },
+    )
